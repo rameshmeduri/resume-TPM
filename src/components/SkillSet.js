@@ -31,7 +31,7 @@ const SkillSet = () => (
           <th scope="row" className="text-right">
             <code>Project Management</code>
           </th>
-          <td>JIRA, Confluence, MS Project, Asana, Trello</td>
+          <td>MS_Project, Jira, Confluence, Clarity, MS_Office, MS_Teams, Asana, Trello</td>
         </tr>
 
         <tr className="rs-tech-stack">
