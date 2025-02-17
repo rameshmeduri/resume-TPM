@@ -2,7 +2,7 @@ import React from 'react';
 
 const SkillSet = () => (
   <div>
-    <div className="rs-green-text rs-mt-20">Technical Skills</div>
+    <div className="rs-green-text rs-mt-10">Technical Skills</div>
     <table className="table table-bordered table-sm table-tech-stack">
       <tbody>
 

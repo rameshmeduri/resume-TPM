@@ -8,13 +8,13 @@ const Header = () => (
   <section>
     <div className="row justify-content-between align-items-top">
 
-      <div className="col-md-4">
+      <div className="col-md-3">
         <img src={ProfileImg} alt="avatar" className="rs-avatar" />
       </div>
 
-      <div className="col-md-4">
-        <div className="rs-green-text text-center font-weight-bold rs-pt-10 rs-profile-title">Technical Project Manager</div>
-        <div className="rs-green-text text-center rs-pt-10">PMP | CSM | Javascript | React | Node | AWS</div>
+      <div className="col-md-5">
+        <div className="rs-green-text text-center font-weight-bold rs-pt-10">Technical Project Manager<span className="rs-text-white"> | </span>React.js Developer</div>
+        <div className="rs-green-text text-center">PMP<span className="rs-text-white"> | </span>CSM<span className="rs-text-white"> | </span>Javascript<span className="rs-text-white"> | </span>React<span className="rs-text-white"> | </span>Node<span className="rs-text-white"> | </span>AWS</div>
       </div>
 
       <div className="col-md-4">
