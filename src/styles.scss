@@ -201,3 +201,16 @@ mark,
     -webkit-print-color-adjust: exact !important;
   }
 }
+
+
+/*
+html {
+  color-scheme: light !important;
+}
+@media (prefers-color-scheme: dark) {
+  html * {
+    background-color: white !important;
+    color: black !important;
+  }
+}
+*/  
