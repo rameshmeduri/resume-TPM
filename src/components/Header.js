@@ -13,8 +13,8 @@ const Header = () => (
       </div>
 
       <div className="col-md-5">
-        <div className="rs-green-text text-center font-weight-bold rs-pt-10">Technical Project Manager<span className="rs-text-white"> | </span>React.js Developer</div>
-        <div className="rs-green-text text-center">PMP<span className="rs-text-white"> | </span>CSM<span className="rs-text-white"> | </span>Javascript<span className="rs-text-white"> | </span>React<span className="rs-text-white"> | </span>Node<span className="rs-text-white"> | </span>AWS</div>
+        <div className="rs-green-text text-center font-weight-bold rs-pt-10">Technical Project Manager | React.js Developer</div>
+        <div className="rs-green-text text-center">PMP | CSM | Javascript | React | Node | AWS</div>
       </div>
 
       <div className="col-md-4">
@@ -39,7 +39,7 @@ const Header = () => (
             <FaGithub />
           </li>
         </ul>
-        <div className="text-right rs-orange-text"><b>Ramesh Meduri</b></div>
+        <div className="text-right rs-green-text"><b>Ramesh Meduri</b></div>
       </div>
     </div>
 
