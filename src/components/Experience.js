@@ -2,7 +2,7 @@ import React, { Fragment } from 'react';
 
 const Experience = () => (
   <Fragment>
-    <div className="rs-green-text rs-mt-20">Experience</div>
+    <div className="rs-green-text rs-mt-10 font-weight-bold">Experience</div>
 
     {/* LTIMindtree */}
     <section>

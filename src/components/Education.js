@@ -2,7 +2,7 @@ import React from 'react';
 
 const Education = () => (
   <section>
-    <div className="rs-green-text rs-mt-20">Education</div>
+    <div className="rs-green-text rs-mt-10 font-weight-bold">Education</div>
     <table className="table table-bordered table-sm rs-mb-4">
       <tbody>
         <tr className="rs-row-bg">

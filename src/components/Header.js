@@ -12,7 +12,7 @@ const Header = () => (
         <img src={ProfileImg} alt="avatar" className="rs-avatar" />
       </div>
 
-      <div className="col-md-5">
+      <div className="col-md-5">        
         <div className="rs-green-text text-center font-weight-bold rs-pt-10">Technical Project Manager | React.js Developer</div>
         <div className="rs-green-text text-center">PMP | CSM | Javascript | React | Node | AWS</div>
       </div>
